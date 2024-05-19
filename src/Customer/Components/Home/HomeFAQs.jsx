@@ -8,7 +8,7 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 
 export default function HomeFAQs() {
   return (
-    <div className='max-w-2xl lg:max-w-7xl p-4 lg:p-8 bg-gray-100 rounded-2xl'>
+    <div className='max-w-2xl lg:w-full p-4 lg:p-8 bg-gray-100 rounded-2xl'>
       <div className='w-full text-center py-8 flex flex-col items-center'>
         <h2 className='text-4xl font-semibold'>FAQs
           <hr className='w-[20rem]'/>
